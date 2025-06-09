@@ -1,7 +1,5 @@
 package ads.poo;
 
-import javax.swing.text.MaskFormatter;
-import java.text.ParseException;
 import java.util.HashMap;
 
 public class ColecaoEmail {

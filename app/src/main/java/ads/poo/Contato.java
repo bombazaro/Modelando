@@ -1,7 +1,5 @@
 package ads.poo;
 
-import org.checkerframework.checker.units.qual.C;
-
 import java.time.LocalDate;
 
 public class Contato {
